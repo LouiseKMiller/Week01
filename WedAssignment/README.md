@@ -1,2 +1,2 @@
 # WedAssignment
-rep created during wednesday class
+rep created during UT Bootcamp Week One - wednesday class
